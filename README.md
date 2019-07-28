@@ -1,0 +1,2 @@
+# Real-Time-Melbourne-Climate-Data-Streaming-and-Analysis
+This project deals with streaming of climate and fire occurrence data in Melbourne over the years. This project also performs real time visualisation and database operations using MongoDB. This project makes use of Kafka Service for pyspark to stream data, perform operations on the chunk of data and showcase streaming data visualisation and static geospatial representation of data.
